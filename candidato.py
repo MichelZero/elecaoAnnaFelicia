@@ -1,3 +1,11 @@
+#
+# autores:
+# Anna Felícia Vasques Bezerra,
+# Emilly Lopes,
+# João Lucas Ferreira Pinheiro,
+# Veluma  de Sousa Guedes e
+# Suelyane Ferreira de Souza
+
 class Candidato:
   nome = None
   partido = None
